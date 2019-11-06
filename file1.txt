@@ -7,5 +7,7 @@
 \pard\pardeftab720\sl380\partightenfactor0
 
 \f0\fs27\fsmilli13600 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 STEP 1:  created by Daniel Tamkin on 11/06/19 at 13:44\
+STEP 1:  created by Daniel Tamkin on 11/06/19 at 13:44\
+\
+STEP 2: created by Evan Von Oehsen on 11/06/19 at 14:07\
 }
